@@ -17,19 +17,6 @@ The Gemini Clone App is a conversational AI interface powered by Google Generati
 
 ---
 
-## Project Structure
-
-```
-src/
-├── assets/              # Icons and static resources
-├── components/          # UI components
-│   └── Main/            # Main interface and layout
-├── config/              # AI configuration and API handling
-├── context/             # App-wide state management
-├── styles/              # CSS for styling the app
-└── App.jsx              # Main application entry point
-```
-
 ### Key Files
 
 1. **Main Component**:
@@ -59,12 +46,12 @@ src/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/gemini-clone.git
+   git clone https://github.com/ngocmaruko/gemini.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd gemini-clone
+   cd gemini
    ```
 
 3. Install dependencies:
@@ -107,7 +94,3 @@ src/
 - **Backend Integration**: Persist user history and preferences.
 
 ---
-
-## Contributing
-
-Feel free to fork the repository and submit pull requests for any improvements or bug fixes.
